@@ -1,5 +1,3 @@
-table File  26 lines (23 sloc)  645 Bytes
-
 #!/usr/bin/python3
 """
 Solution to lockboxes problem
